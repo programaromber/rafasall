@@ -4,9 +4,7 @@
 </h2>
 
 
-Hi dears my name Rafael Salles, 20 year old, i'm live in Brazil. 
-LoveApaixonada por tecnologia, desenvolvimento front-end, inovação e possibilidades. 
-
+- 💬 Hi dears my name Rafael Salles, 20 year old, i'm live in Brazil.
 - 🏢 Working on Fullstack Engineer
 - 💻 Lover about software development and coding of APIs
 - 🚀 Deepening knowledge React, Spring and English
