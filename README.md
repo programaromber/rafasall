@@ -1,5 +1,4 @@
-### Welcome to my github profile👋
-<h2>Welcome to my github profile</h2>
+<h2>Welcome to my github profile 👋</h2>
 <h2 align="center">
   <img src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif">
 </h2>
