@@ -1,5 +1,8 @@
 ### Welcome to my github profile👋
-<div style=" background-image: url("https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif");">
+<h1 align="center">
+  <img src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif">
+</h1>
+
 <h2>Welcome to my github profile</h2>
 
 Hi dears my name Rafael Salles, 20 year old, i'm live in Brazil. 
@@ -10,7 +13,6 @@ LoveApaixonada por tecnologia, desenvolvimento front-end, inovação e possibili
 - 🚀 Deepening knowledge React, Spring and English
 - 💬 Contact-me:  <a href="https://www.linkedin.com/in/rafasall/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
- </div>
 
 <!--
 **rafasall/rafasall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
