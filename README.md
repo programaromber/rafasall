@@ -8,7 +8,7 @@
 - 🏢 Working on Fullstack Engineer
 - 💻 Lover about software development and coding of APIs
 - 🚀 Deepening knowledge React, Spring and English
-- 💬 Contact-me:  <a href="https://www.linkedin.com/in/rafasall/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+- <a href="https://www.linkedin.com/in/rafasall/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 
 <!--
