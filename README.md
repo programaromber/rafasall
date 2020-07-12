@@ -1,4 +1,4 @@
-<h2>Welcome to my github profile 👋</h2>
+<h2>Welcome to my github profile <a href="https://www.linkedin.com/in/rafasall/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a></h2>
 <h2 align="center">
   <img src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif">
 </h2>
@@ -8,7 +8,6 @@
 - 🏢 Working on Fullstack Engineer
 - 💻 Lover about software development and coding of APIs
 - 🚀 Deepening knowledge React, Spring and English
-- <a href="https://www.linkedin.com/in/rafasall/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 
 <!--
