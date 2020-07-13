@@ -4,10 +4,10 @@
 </h2>
 
 
-- 💬 Hi dears my name Rafael Salles, 20 year old, i'm live in Brazil.
-- 🏢 Working on Fullstack Engineer
-- 💻 Lover about software development and coding of APIs
-- 🚀 Deepening knowledge React, Spring and English
+- 💬 Hi dears. My name is Rafael Salles, I'm 20 year old, I live in Brazil.
+- 🏢 Working as a Full Stack Engineer
+- 💻 I love software development and API's coding
+- 🚀 Still improving my knowledge on React, Spring and English
 
 
 <!--
