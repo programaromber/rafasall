@@ -5,7 +5,7 @@
 
 # Olá pessoal 👋
 Sou apaixonado por resolver problemas utilizando a programação.
-Sou um FullStack Developer :computer:
+Sou Developer e Techlead :computer:
 
  :rocket:  &nbsp; Estou trabalhando como **Desenvolvedor Full Stack**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos: Backend Java/Spring e Node.js | Front-end usando React
@@ -23,7 +23,7 @@ Sou um FullStack Developer :computer:
 Here are some ideas to get you started:
 
 
-- 💬 Hi dears. My name is Rafael Salles, I'm 20 year old, I live in Brazil.
+- 💬 Hi dears. My name is Rafael Salles, I'm 35 year old, I live in Brazil.
 - 🏢 Working as a Software Engineer with SQL, Java, Spring, Javascript and Angular
 - 💻 I love software development API's and Applications
 - 🚀 Still improving my knowledge on AWS, Kotlin, Micronaut, gRPC and English
